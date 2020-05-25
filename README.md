@@ -1,4 +1,4 @@
-# Seattle AirBnB
+# Seattle AirBnB Analysis
 This project is focused on the analysis of the Seattle AirBnB data. 
 
 # Installations
